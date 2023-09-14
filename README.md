@@ -61,4 +61,22 @@ The graph above shows the relationships between the points lines:
 
 ### Explanation of results
 
+Here are some possible explanations for these observations:
 
++ Moroccans living abroad visited Morocco more in 2015 due to COP 22, which was held in Marrakech in November of this year. COP 22 attracted many Moroccans living abroad, who took the opportunity to visit their country of origin.
+  
++ Germans visited Morocco more in 2017 due to the FIFA World Cup, which was held in Morocco in June and July this year. The World Cup attracted many German tourists, who wanted to discover Morocco.
+  
++ The French visited Morocco more in 2012 due to the campaign to promote Moroccan tourism in France. This campaign was launched in 2012 and helped increase the notoriety of Morocco in France.
+  
++ The low representation in 2020 can be explained by the COVID-19 pandemic, which led to a drop in tourist arrivals in Morocco.
+
+ ## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
+
+**Chaimae BOUYARMANE**
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a> 
