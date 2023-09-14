@@ -14,22 +14,45 @@ These data provide a detailed numerical representation of the nationality of tou
 
 ## 📊 Analysis and Visualization
 
-Explore the Jupyter Notebook (or R Markdown file) in the `analysis` directory to see the detailed analysis, data visualization, and code used to generate the results.
+### Results interpretation
 
-## 📁 Repository Structure
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco/blob/main/Img/d4.PNG" alt="screenshot" />
+</div>
 
-- `analysis/`: Contains the Jupyter Notebook (or R Markdown file) with the analysis code.
-- `data/`: Includes the dataset used for the analysis.
-- `images/`: Stores images and visualizations.
-- `LICENSE`: The license information for this project.
-- `README.md`: You're reading it right now!
+Moroccans living abroad are the people who visit Morocco the most.
 
-## 📄 License
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco/blob/main/Img/d1.PNG" alt="screenshot" />
+</div>
 
-This project is licensed under the [MIT License](LICENSE).
+Moroccans living abroad visited Morocco more in 2015, Germans visited Morocco more in 2017 and the French visited Morocco more in 2012.
 
-## 📧 Contact
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco/blob/main/Img/d2.PNG" alt="screenshot" />
+</div>
 
-If you have any questions, suggestions, or feedback, feel free to contact us at [your-email@example.com].
+In the graph above, the rows are represented by blue dots and the columns by red triangles.
+This graph shows that:
+● China, the United States and Belgium are close to Dim1.
+● MRE, United Kingdom and Spain are close to Dim2.
 
-Happy analyzing! 🚀
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco/blob/main/Img/d6.PNG" alt="screenshot" />
+</div>
+
+The graph above shows the relationships between the points lines:
+● Nationalities with a similar profile such as the United Kingdom, MRE and Scandinavia are grouped together, however China is alone because it has a different profile from the others.
+● Line points like France and United Kingdom which are far from the origin are well represented on the graph.
+● We can see that countries colored red such as France, China and the United States are well represented and countries colored blue are weakly represented such as Scandinavia.
+
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco/blob/main/Img/d5.PNG" alt="screenshot" />
+</div>
+
+● Years like 2016, 2015…. which are well represented are colored red.
+● the year 2020 which is in blue color is weakly represented.
+
+### Explanation of results
+
+
