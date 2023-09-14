@@ -34,7 +34,9 @@ Moroccans living abroad visited Morocco more in 2015, Germans visited Morocco mo
 
 In the graph above, the rows are represented by blue dots and the columns by red triangles.
 This graph shows that:
+
 ● China, the United States and Belgium are close to Dim1.
+
 ● MRE, United Kingdom and Spain are close to Dim2.
 
 <div align="center"> 
@@ -42,8 +44,11 @@ This graph shows that:
 </div>
 
 The graph above shows the relationships between the points lines:
+
 ● Nationalities with a similar profile such as the United Kingdom, MRE and Scandinavia are grouped together, however China is alone because it has a different profile from the others.
+
 ● Line points like France and United Kingdom which are far from the origin are well represented on the graph.
+
 ● We can see that countries colored red such as France, China and the United States are well represented and countries colored blue are weakly represented such as Scandinavia.
 
 <div align="center"> 
@@ -51,6 +56,7 @@ The graph above shows the relationships between the points lines:
 </div>
 
 ● Years like 2016, 2015…. which are well represented are colored red.
+
 ● the year 2020 which is in blue color is weakly represented.
 
 ### Explanation of results
