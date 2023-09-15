@@ -71,6 +71,20 @@ Here are some possible explanations for these observations:
   
 + The low representation in 2020 can be explained by the COVID-19 pandemic, which led to a drop in tourist arrivals in Morocco.
 
+## ⚙️ Configuration and Installation
+
+To run the R code in this project and reproduce the analysis, follow these simple steps:
+
+1. **Prerequisites**:
+   - Ensure that you have R installed on your system. If not, you can download it from [the official R website](https://cran.r-project.org/mirrors.html).
+   - Consider using an Integrated Development Environment (IDE) like RStudio for a more user-friendly experience.
+
+2. **Clone the Repository**:
+   - Clone this GitHub repository to your local machine using the following command (make sure you have Git installed):
+     ```
+     git clone https://github.com/chaimaebouyarmane/AFC_Analysis_of_Tourist_Arrivals_in_Morocco.git
+     ```
+
  ## Contact :busts_in_silhouette:
 Feel free to reach out to us if you have any questions or suggestions:
 
